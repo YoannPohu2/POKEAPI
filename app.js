@@ -28,4 +28,4 @@ const changePokemon = async () => {
 };
 
 changePokemon();
-button.addEventListener('click', changePokemon); // Ajout de l'événement pour le bouton
+button.addEventListener('click', changePokemon); // Ajout de l'événement pour le bouton click
